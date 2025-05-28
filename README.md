@@ -1,4 +1,4 @@
-# <div align="center">fuxiaochen</div>
+# <div align="center">diandongzhang</div>
 
 **本项目是一个个人学习技术和探索的项目，随时可能有 breaking change。不建议！！！不建议 ！！！不建议 ！！！用于生产环境，欢迎一起互相交流学习～**
 
@@ -57,7 +57,7 @@
 ### 获取项目代码
 
 ```bash
-git clone https://github.com/aifuxi/fuxiaochen.git
+git clone https://github.com/diandong/diandongzhang.git
 ```
 
 ### 安装依赖
@@ -159,15 +159,15 @@ pnpm db:studio
 
 ## 反馈
 
-遇到任何问题，欢迎给我发邮件反馈，欢迎提 [Issue](https://github.com/aifuxi/fuxiaochen/issues)
+遇到任何问题，欢迎给我发邮件反馈，欢迎提 [Issue](https://github.com/diandong/diandongzhang/issues)
 
 ## Star History
 
-<a href="https://star-history.com/#aifuxi/fuxiaochen&Date">
+<a href="https://star-history.com/#diandong/diandongzhang&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=aifuxi/fuxiaochen&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=aifuxi/fuxiaochen&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=aifuxi/fuxiaochen&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=diandong/diandongzhang&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=diandong/diandongzhang&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=diandong/diandongzhang&type=Date" />
  </picture>
 </a>
 
